@@ -1,6 +1,6 @@
 {
   "name": "tstatsd",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Generate telegraf statsd's inputs in NodeJs",
   "main": "index.js",
   "directories": {
